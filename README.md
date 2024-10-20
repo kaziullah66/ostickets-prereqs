@@ -2,9 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,13 +20,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>List of Prerequisites</h2>
 
-- Install the necessary applications
-- Add certain functions
-- Run osTicket
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
 
-<h2>Configuration Steps</h2>
+<h2>Installation Steps</h2>
 
 <p>
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462554576_2849246758573287_3383910012200417354_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=wckJkDqUHcAQ7kNvgFSJ4Wj&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A4pzuVGmWgU4tlgN-ld08hZ&oh=03_Q7cD1QH-Mab9HYH2-wvGlYUdJKzXSiegPVj3a4hB5Oam55SI_Q&oe=6739EB65"/>
